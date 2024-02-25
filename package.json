@@ -1,0 +1,21 @@
+{
+  "name": "remove-attribute-from-html",
+  "version": "1.0.7",
+  "description": "The package provides a utility function to remove attributes from HTML content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nati-grossman/remove-attribute-from-html.git"
+  },
+  "keywords": [
+    "remove-attribute",
+    "remove-attribute-html",
+    "attribute-html-remove",
+    "attribute-html"
+  ],
+  "author": "nati grossman",
+  "license": "MIT"
+}
